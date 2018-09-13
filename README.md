@@ -1,2 +1,2 @@
-# bazel_poison_repository_cache
-Example of a poisoned respository cache action
+# bazel_poison_disk_cache
+Example of a poisoned disk cache action
